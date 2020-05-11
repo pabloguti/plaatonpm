@@ -1,0 +1,23 @@
+{
+  "name": "plaatonpm",
+  "version": "0.1.0",
+  "description": "Plaato npm package to work with Plaato Inc products",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloguti/plaatonpm.git"
+  },
+  "keywords": [
+    "npm",
+    "plaato"
+  ],
+  "author": "Pablo Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabloguti/plaatonpm/issues"
+  },
+  "homepage": "https://github.com/pabloguti/plaatonpm#readme"
+}
